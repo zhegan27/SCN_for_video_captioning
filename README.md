@@ -14,7 +14,7 @@ This code is written in python. To use it you will need:
 
 ## Getting started
 
-We provide the code on how to train SCN for video captioning on the Youtube2Text dataset. The SCN used in this experiment is a slightly different version of the original SCN. That is, we feed the image features to each step of the SCN-LSTM, instead of only the first step.  
+We provide the code on how to train SCN for video captioning on the Youtube2Text dataset. The SCN used in this experiment is a slightly different version of the original SCN. That is, we feed the video features to each step of the SCN-LSTM, instead of only the first step.  
 
 * In order to start, please first download the [C3D, ResNet features and tag features](https://drive.google.com/open?id=0B1HR6m3IZSO_amVjYXFyaXctSjA) for the Youtube2Text dataset we used in the experiments. Put the  `youtube2text` folder inside the `./data` folder.
 
