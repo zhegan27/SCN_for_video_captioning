@@ -1,6 +1,6 @@
 # SCN for video captioning
 
-This repo contains the code of using SCN for video captioning, based on the CVPR 2017 paper “[Semantic Compositional Networks for Visual Captioning](https://arxiv.org/pdf/1611.08002.pdf)”. 
+This repo contains the code of using SCN for video captioning, based on the CVPR 2017 paper “[Semantic Compositional Networks for Visual Captioning](https://arxiv.org/pdf/1611.08002v2.pdf)”. 
 
 To keep things simple, SCN for image captioning is provided in [another separate repo](https://github.com/zhegan27/Semantic_Compositional_Nets).
 
