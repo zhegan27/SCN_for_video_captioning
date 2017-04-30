@@ -1,5 +1,5 @@
 '''
-Semantic Compositional Network https://arxiv.org/pdf/1611.08002v1.pdf
+Semantic Compositional Network https://arxiv.org/pdf/1611.08002.pdf
 Developed by Zhe Gan, zg27@duke.edu, Sep., 2016
 '''
 
