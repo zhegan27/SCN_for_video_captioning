@@ -41,7 +41,7 @@ CIDEr: 0.777, Bleu-4: 0.511, Bleu-3: 0.606, Bleu-2: 0.697, Bleu-1: 0.810, ROUGE_
 
 ## Train the video tagger
 
-The above results depend on training a good video tagging model. Below, we introduce how we implement this in our paper. In our experiments, in order to train the video tagger, we use data both from `Youtube2Text` and `MSR-VTT`.
+The above results depend on training a good video tagging model. Below, we introduce how we implement this in our paper. In our experiments, in order to train the video tagger, we use data both from `Youtube2Text` and `MSR-VTT`. The code is inside the `video_tagging` folder.
 
 1. In order to start, please first download the [ResNet features and captions](https://www.dropbox.com/sh/amqm644a7zekgg5/AAC1GgKouhcfGKQVb8CLUWvla?dl=0) for the Youtube2Text and MSR-VTT dataset we used in the experiments. They are included in the `data` folder. Further, inside the `preprocess_raw_data` folder, we also include how we preprocess the raw data into the format we used in running the code.
 
